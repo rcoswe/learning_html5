@@ -10,8 +10,6 @@ _Paymemt made_
 ### Beslut
 _Decision_
 
-![water-1480997_1280.jpg]({{site.baseurl}}/water-1480997_1280.jpg)
-
 
 
 
